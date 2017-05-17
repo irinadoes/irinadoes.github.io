@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Pacifico', cursive;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Geocaching!</h1>
+    <p>I'ma skip the story, just check out our most recent cahce <a href="https://www.geocaching.com/geocache/GC75NDK_north-echo-park-gee-arr-see">here</a>!</p>
+  </body>
+</html>
