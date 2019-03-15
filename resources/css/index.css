@@ -1,0 +1,24 @@
+
+
+h1, h2 {
+  font-family: 'Pacifico', cursive;
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+  font-size: 60px;
+}
+h2 {
+  text-align: center;
+}
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.circle {
+  list-style: circle;
+}
+
+
+a {
+  text-decoration: none;
+}
